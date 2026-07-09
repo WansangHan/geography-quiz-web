@@ -1,0 +1,26 @@
+{
+  "name": "지리 퀴즈",
+  "short_name": "지리 퀴즈",
+  "description": "지리 퀴즈",
+  "start_url": "/geography-quiz-web/",
+  "scope": "/geography-quiz-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#D97706",
+  "background_color": "#D97706",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "pwa-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
